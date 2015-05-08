@@ -16,7 +16,7 @@ template: '<h1>Hello {{ name }}</h1>' // Defines the inline template for the com
 
 // Component controller
 
-class MyAppComponenet {
+class MyAppComponent {
     name: string;
 
     constructor() {
