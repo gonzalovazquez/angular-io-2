@@ -22,4 +22,6 @@ class MyAppComponenet {
     constructor() {
         this.name = 'Gonzalo';
     }
-}
+ }
+
+ bootstrap(MyAppComponent);
